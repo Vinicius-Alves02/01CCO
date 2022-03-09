@@ -1,0 +1,7 @@
+Git Status = Ele Mostra se você tem algum commit/alteração para ser salva ou a fazer.
+Git Add . = Ele adiciona todos os arquivos novos/alterados em um Comiit.
+Git Commit -m 'Mesagem' = Fazer um commit das coias que foram alteradas dentro do repositório e colocando uma mensgem no comit.
+Git --global --unset user.name = Serve para deslogar o usuário do Git na máquina.
+Git --global user.name '' = Também serve para deslogar o usário do Git na máquina.
+Git --global user.name 'SeuNomeGit' = Serve para você logar com o seu usuário GIt.
+Git --global user.email 'SeuEmail' = Serve para logar com seu email utilizado no Git.
